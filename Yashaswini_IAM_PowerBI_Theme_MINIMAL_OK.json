@@ -1,0 +1,77 @@
+{
+  "name": "Yashaswini IAM Theme",
+  "dataColors": [
+    "#007ACC",
+    "#E53935",
+    "#4CAF50",
+    "#FFB300",
+    "#5C6BC0"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#007ACC",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": [
+          {
+            "solid": {
+              "color": "#000000"
+            }
+          }
+        ],
+        "fontSize": [
+          {
+            "value": 12
+          }
+        ],
+        "fontFamily": [
+          {
+            "value": "Segoe UI"
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "color": [
+          {
+            "solid": {
+              "color": "#000000"
+            }
+          }
+        ],
+        "fontSize": [
+          {
+            "value": 14
+          }
+        ]
+      }
+    },
+    "table": {
+      "*": {
+        "gridVertical": [
+          {
+            "solid": {
+              "color": "#F2F2F2"
+            }
+          }
+        ],
+        "gridHorizontal": [
+          {
+            "solid": {
+              "color": "#F2F2F2"
+            }
+          }
+        ],
+        "accentBar": [
+          {
+            "solid": {
+              "color": "#007ACC"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

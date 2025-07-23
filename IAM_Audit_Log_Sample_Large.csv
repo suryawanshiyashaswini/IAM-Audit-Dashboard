@@ -1,0 +1,501 @@
+User,Action,Timestamp,Resource,Status,Location
+dev.patel@company.com,Failed Login,11-07-2025 00:11,Power BI,Failed,Ahmedabad
+anita.mehra@company.com,Failed Login,19-07-2025 12:01,Entra ID,Failed,Hyderabad
+anita.mehra@company.com,Failed Login,10-07-2025 03:48,Azure CLI,Failed,Bangalore
+ravi.kumar@company.com,Group Modified,19-07-2025 02:11,Power BI,Success,Hyderabad
+neha.joshi@company.com,Password Change,06-07-2025 03:47,Azure CLI,Failed,Mumbai
+anita.mehra@company.com,Role Assigned,07-07-2025 18:25,Azure CLI,Success,Bangalore
+ravi.kumar@company.com,Role Assigned,11-07-2025 17:28,Azure CLI,Failed,Pune
+anita.mehra@company.com,Role Assigned,18-07-2025 23:39,Azure CLI,Success,Hyderabad
+jane.smith@company.com,Failed Login,05-07-2025 08:25,Admin Center,Failed,Mumbai
+jane.smith@company.com,Login,04-07-2025 08:36,Admin Center,Failed,Chennai
+raj.sharma@company.com,Password Change,20-07-2025 06:23,MS Graph,Success,Delhi
+john.doe@company.com,Failed Login,16-07-2025 23:44,Entra ID,Failed,Pune
+ravi.kumar@company.com,Failed Login,06-07-2025 13:39,Azure CLI,Failed,Pune
+neha.joshi@company.com,Failed Login,02-07-2025 09:35,Admin Center,Failed,Hyderabad
+ravi.kumar@company.com,Login,21-07-2025 08:01,Admin Center,Success,Chennai
+sana.ali@company.com,Password Change,03-07-2025 19:41,Azure Portal,Failed,Pune
+john.doe@company.com,Role Assigned,03-07-2025 12:21,MS Graph,Success,Bangalore
+anita.mehra@company.com,Failed Login,01-07-2025 13:28,Power BI,Failed,Mumbai
+raj.sharma@company.com,Login,07-07-2025 03:49,MS Graph,Success,Chennai
+john.doe@company.com,Failed Login,16-07-2025 20:59,Azure Portal,Failed,Ahmedabad
+john.doe@company.com,Login,02-07-2025 23:10,Admin Center,Failed,Hyderabad
+anita.mehra@company.com,Login,10-07-2025 02:10,Entra ID,Failed,Pune
+anita.mehra@company.com,Login,12-07-2025 05:44,Entra ID,Success,Pune
+raj.sharma@company.com,Group Modified,09-07-2025 20:36,Admin Center,Success,Ahmedabad
+sana.ali@company.com,Login,18-07-2025 13:02,MS Graph,Failed,Ahmedabad
+jane.smith@company.com,Failed Login,01-07-2025 21:41,MS Graph,Failed,Pune
+dev.patel@company.com,Login,01-07-2025 18:22,Admin Center,Failed,Bangalore
+sana.ali@company.com,Login,15-07-2025 04:51,Power BI,Failed,Mumbai
+neha.joshi@company.com,Login,05-07-2025 01:15,Admin Center,Failed,Ahmedabad
+sana.ali@company.com,Password Change,08-07-2025 20:45,Admin Center,Failed,Hyderabad
+jane.smith@company.com,Password Change,15-07-2025 10:09,Entra ID,Success,Ahmedabad
+anita.mehra@company.com,Role Assigned,03-07-2025 09:43,Entra ID,Failed,Mumbai
+anita.mehra@company.com,Failed Login,07-07-2025 08:16,Azure CLI,Failed,Chennai
+ravi.kumar@company.com,Failed Login,08-07-2025 07:02,Entra ID,Failed,Bangalore
+raj.sharma@company.com,Group Modified,07-07-2025 03:27,MS Graph,Success,Mumbai
+ravi.kumar@company.com,Failed Login,01-07-2025 13:25,Admin Center,Failed,Bangalore
+raj.sharma@company.com,Password Change,13-07-2025 21:56,Entra ID,Success,Ahmedabad
+raj.sharma@company.com,Failed Login,04-07-2025 23:01,Power BI,Failed,Pune
+raj.sharma@company.com,Login,13-07-2025 04:25,Power BI,Success,Mumbai
+anita.mehra@company.com,Password Change,20-07-2025 18:25,MS Graph,Success,Hyderabad
+dev.patel@company.com,Role Assigned,17-07-2025 16:07,Azure Portal,Success,Hyderabad
+anita.mehra@company.com,Login,15-07-2025 11:41,Power BI,Success,Mumbai
+neha.joshi@company.com,Failed Login,20-07-2025 10:29,Admin Center,Failed,Mumbai
+ravi.kumar@company.com,Failed Login,03-07-2025 01:36,MS Graph,Failed,Delhi
+john.doe@company.com,Failed Login,14-07-2025 09:22,Azure Portal,Failed,Hyderabad
+neha.joshi@company.com,Failed Login,08-07-2025 18:37,Entra ID,Failed,Mumbai
+raj.sharma@company.com,Role Assigned,13-07-2025 13:11,Azure Portal,Success,Delhi
+neha.joshi@company.com,Role Assigned,17-07-2025 12:48,MS Graph,Failed,Delhi
+neha.joshi@company.com,Password Change,14-07-2025 00:09,Power BI,Failed,Ahmedabad
+sana.ali@company.com,Password Change,07-07-2025 23:05,Entra ID,Failed,Pune
+anita.mehra@company.com,Role Assigned,21-07-2025 08:31,MS Graph,Success,Mumbai
+jane.smith@company.com,Group Modified,19-07-2025 23:59,Admin Center,Failed,Ahmedabad
+ravi.kumar@company.com,Login,19-07-2025 04:04,Azure CLI,Success,Chennai
+neha.joshi@company.com,Failed Login,07-07-2025 23:48,Azure CLI,Failed,Hyderabad
+raj.sharma@company.com,Failed Login,10-07-2025 16:10,MS Graph,Failed,Bangalore
+raj.sharma@company.com,Failed Login,15-07-2025 14:39,Entra ID,Failed,Chennai
+ravi.kumar@company.com,Login,09-07-2025 16:34,Azure CLI,Failed,Hyderabad
+anita.mehra@company.com,Login,17-07-2025 14:55,Azure Portal,Success,Ahmedabad
+neha.joshi@company.com,Failed Login,12-07-2025 02:56,Admin Center,Failed,Chennai
+ravi.kumar@company.com,Login,16-07-2025 09:22,Azure Portal,Failed,Delhi
+raj.sharma@company.com,Login,13-07-2025 00:55,Azure Portal,Failed,Delhi
+jane.smith@company.com,Failed Login,10-07-2025 04:13,Entra ID,Failed,Pune
+neha.joshi@company.com,Failed Login,04-07-2025 12:01,Admin Center,Failed,Pune
+john.doe@company.com,Login,15-07-2025 05:33,Azure Portal,Success,Hyderabad
+dev.patel@company.com,Password Change,09-07-2025 17:00,Azure CLI,Success,Mumbai
+neha.joshi@company.com,Role Assigned,12-07-2025 23:31,Entra ID,Success,Bangalore
+jane.smith@company.com,Failed Login,17-07-2025 08:09,Azure Portal,Failed,Pune
+sana.ali@company.com,Failed Login,20-07-2025 00:26,MS Graph,Failed,Delhi
+sana.ali@company.com,Password Change,16-07-2025 21:57,Azure Portal,Success,Mumbai
+john.doe@company.com,Login,06-07-2025 03:54,Azure CLI,Success,Delhi
+anita.mehra@company.com,Login,06-07-2025 07:25,Azure Portal,Failed,Bangalore
+sana.ali@company.com,Failed Login,18-07-2025 17:19,Power BI,Failed,Hyderabad
+john.doe@company.com,Failed Login,01-07-2025 20:51,MS Graph,Failed,Chennai
+john.doe@company.com,Failed Login,13-07-2025 06:31,Power BI,Failed,Bangalore
+ravi.kumar@company.com,Group Modified,16-07-2025 20:38,Azure Portal,Failed,Ahmedabad
+john.doe@company.com,Password Change,09-07-2025 18:07,MS Graph,Failed,Pune
+sana.ali@company.com,Password Change,10-07-2025 09:47,Azure CLI,Success,Chennai
+john.doe@company.com,Group Modified,12-07-2025 21:25,Azure Portal,Failed,Delhi
+john.doe@company.com,Failed Login,04-07-2025 17:04,Entra ID,Failed,Mumbai
+sana.ali@company.com,Failed Login,02-07-2025 17:54,MS Graph,Failed,Ahmedabad
+sana.ali@company.com,Failed Login,08-07-2025 07:45,Azure Portal,Failed,Chennai
+jane.smith@company.com,Group Modified,07-07-2025 17:37,Azure Portal,Success,Chennai
+jane.smith@company.com,Password Change,10-07-2025 02:28,Entra ID,Failed,Pune
+dev.patel@company.com,Login,03-07-2025 02:29,Azure Portal,Failed,Pune
+sana.ali@company.com,Group Modified,16-07-2025 12:48,Azure CLI,Success,Mumbai
+sana.ali@company.com,Failed Login,12-07-2025 04:31,MS Graph,Failed,Delhi
+neha.joshi@company.com,Login,19-07-2025 01:14,MS Graph,Success,Chennai
+neha.joshi@company.com,Login,10-07-2025 04:56,Entra ID,Failed,Hyderabad
+raj.sharma@company.com,Group Modified,04-07-2025 22:27,Azure Portal,Failed,Ahmedabad
+raj.sharma@company.com,Failed Login,08-07-2025 19:28,MS Graph,Failed,Pune
+jane.smith@company.com,Role Assigned,03-07-2025 09:11,Entra ID,Success,Bangalore
+sana.ali@company.com,Login,07-07-2025 16:51,Entra ID,Success,Delhi
+ravi.kumar@company.com,Role Assigned,11-07-2025 02:05,Azure Portal,Failed,Hyderabad
+raj.sharma@company.com,Role Assigned,19-07-2025 01:03,Azure CLI,Success,Mumbai
+john.doe@company.com,Password Change,08-07-2025 19:18,Entra ID,Failed,Ahmedabad
+ravi.kumar@company.com,Group Modified,05-07-2025 23:07,MS Graph,Failed,Mumbai
+dev.patel@company.com,Password Change,13-07-2025 18:10,MS Graph,Failed,Ahmedabad
+neha.joshi@company.com,Password Change,11-07-2025 12:51,Azure Portal,Failed,Chennai
+dev.patel@company.com,Failed Login,14-07-2025 20:34,Admin Center,Failed,Ahmedabad
+neha.joshi@company.com,Role Assigned,19-07-2025 08:16,Azure CLI,Success,Ahmedabad
+anita.mehra@company.com,Group Modified,06-07-2025 04:29,Admin Center,Success,Pune
+jane.smith@company.com,Role Assigned,18-07-2025 12:40,MS Graph,Success,Mumbai
+john.doe@company.com,Login,19-07-2025 13:01,Entra ID,Failed,Ahmedabad
+neha.joshi@company.com,Login,09-07-2025 09:50,MS Graph,Failed,Pune
+raj.sharma@company.com,Group Modified,05-07-2025 17:03,Admin Center,Failed,Mumbai
+dev.patel@company.com,Failed Login,12-07-2025 22:16,MS Graph,Failed,Hyderabad
+john.doe@company.com,Login,08-07-2025 20:06,Azure CLI,Success,Pune
+neha.joshi@company.com,Login,06-07-2025 18:17,Admin Center,Failed,Mumbai
+jane.smith@company.com,Failed Login,08-07-2025 21:54,Entra ID,Failed,Mumbai
+anita.mehra@company.com,Login,02-07-2025 12:29,Admin Center,Success,Bangalore
+ravi.kumar@company.com,Login,08-07-2025 08:03,Azure Portal,Success,Chennai
+dev.patel@company.com,Password Change,14-07-2025 17:48,Entra ID,Success,Delhi
+john.doe@company.com,Group Modified,14-07-2025 09:47,Power BI,Success,Bangalore
+jane.smith@company.com,Login,11-07-2025 01:41,Admin Center,Success,Mumbai
+raj.sharma@company.com,Role Assigned,18-07-2025 19:08,Admin Center,Success,Hyderabad
+dev.patel@company.com,Password Change,04-07-2025 21:33,Power BI,Success,Bangalore
+john.doe@company.com,Failed Login,10-07-2025 08:15,Admin Center,Failed,Ahmedabad
+raj.sharma@company.com,Login,14-07-2025 09:31,Azure CLI,Failed,Chennai
+john.doe@company.com,Group Modified,01-07-2025 11:34,Entra ID,Success,Hyderabad
+ravi.kumar@company.com,Failed Login,05-07-2025 12:36,Azure Portal,Failed,Ahmedabad
+john.doe@company.com,Failed Login,06-07-2025 08:26,MS Graph,Failed,Ahmedabad
+raj.sharma@company.com,Login,14-07-2025 05:33,Azure CLI,Success,Mumbai
+raj.sharma@company.com,Password Change,09-07-2025 08:19,Power BI,Failed,Pune
+raj.sharma@company.com,Failed Login,21-07-2025 08:08,Admin Center,Failed,Mumbai
+neha.joshi@company.com,Failed Login,17-07-2025 21:52,Power BI,Failed,Delhi
+john.doe@company.com,Login,12-07-2025 20:00,Entra ID,Failed,Ahmedabad
+neha.joshi@company.com,Role Assigned,18-07-2025 16:55,Azure CLI,Success,Delhi
+raj.sharma@company.com,Group Modified,20-07-2025 07:04,Admin Center,Failed,Delhi
+anita.mehra@company.com,Failed Login,15-07-2025 09:14,Azure Portal,Failed,Pune
+anita.mehra@company.com,Login,16-07-2025 13:52,Azure CLI,Failed,Hyderabad
+raj.sharma@company.com,Failed Login,19-07-2025 02:04,Entra ID,Failed,Bangalore
+neha.joshi@company.com,Failed Login,10-07-2025 02:34,Power BI,Failed,Ahmedabad
+ravi.kumar@company.com,Login,19-07-2025 23:49,MS Graph,Failed,Bangalore
+neha.joshi@company.com,Group Modified,15-07-2025 13:19,Entra ID,Success,Mumbai
+jane.smith@company.com,Role Assigned,19-07-2025 01:34,Power BI,Success,Chennai
+anita.mehra@company.com,Role Assigned,18-07-2025 04:17,MS Graph,Success,Ahmedabad
+john.doe@company.com,Login,17-07-2025 11:15,Azure CLI,Failed,Chennai
+neha.joshi@company.com,Failed Login,08-07-2025 07:23,Azure CLI,Failed,Bangalore
+sana.ali@company.com,Role Assigned,10-07-2025 15:33,Power BI,Failed,Ahmedabad
+raj.sharma@company.com,Password Change,19-07-2025 12:45,MS Graph,Failed,Ahmedabad
+jane.smith@company.com,Role Assigned,06-07-2025 06:12,Admin Center,Failed,Chennai
+dev.patel@company.com,Role Assigned,08-07-2025 01:54,Azure CLI,Success,Bangalore
+dev.patel@company.com,Login,12-07-2025 12:26,Azure Portal,Success,Chennai
+dev.patel@company.com,Login,12-07-2025 20:08,Admin Center,Failed,Pune
+ravi.kumar@company.com,Login,03-07-2025 07:50,Admin Center,Failed,Chennai
+dev.patel@company.com,Group Modified,19-07-2025 19:57,Azure CLI,Success,Pune
+raj.sharma@company.com,Login,18-07-2025 05:28,MS Graph,Failed,Hyderabad
+sana.ali@company.com,Failed Login,09-07-2025 19:23,Entra ID,Failed,Bangalore
+anita.mehra@company.com,Role Assigned,10-07-2025 04:13,Azure Portal,Failed,Hyderabad
+neha.joshi@company.com,Role Assigned,19-07-2025 17:02,Entra ID,Success,Bangalore
+anita.mehra@company.com,Password Change,20-07-2025 17:10,MS Graph,Failed,Ahmedabad
+neha.joshi@company.com,Group Modified,21-07-2025 13:23,Power BI,Success,Mumbai
+anita.mehra@company.com,Group Modified,06-07-2025 13:42,Entra ID,Success,Pune
+raj.sharma@company.com,Failed Login,08-07-2025 13:59,Azure CLI,Failed,Hyderabad
+jane.smith@company.com,Failed Login,19-07-2025 23:15,MS Graph,Failed,Hyderabad
+anita.mehra@company.com,Failed Login,13-07-2025 20:22,Azure CLI,Failed,Delhi
+dev.patel@company.com,Failed Login,17-07-2025 06:51,Entra ID,Failed,Ahmedabad
+sana.ali@company.com,Login,05-07-2025 04:57,Entra ID,Success,Bangalore
+ravi.kumar@company.com,Failed Login,18-07-2025 11:55,Azure Portal,Failed,Mumbai
+ravi.kumar@company.com,Group Modified,13-07-2025 00:31,MS Graph,Failed,Chennai
+ravi.kumar@company.com,Login,08-07-2025 16:44,Power BI,Success,Bangalore
+john.doe@company.com,Failed Login,17-07-2025 16:52,MS Graph,Failed,Ahmedabad
+anita.mehra@company.com,Login,20-07-2025 21:06,Entra ID,Failed,Delhi
+sana.ali@company.com,Failed Login,11-07-2025 21:40,Azure Portal,Failed,Bangalore
+neha.joshi@company.com,Login,19-07-2025 22:01,Azure Portal,Success,Ahmedabad
+ravi.kumar@company.com,Group Modified,22-07-2025 00:37,Power BI,Success,Bangalore
+jane.smith@company.com,Failed Login,09-07-2025 03:46,MS Graph,Failed,Hyderabad
+ravi.kumar@company.com,Login,10-07-2025 06:48,Admin Center,Success,Bangalore
+dev.patel@company.com,Login,15-07-2025 12:19,Power BI,Success,Pune
+jane.smith@company.com,Login,06-07-2025 04:12,Azure CLI,Success,Delhi
+jane.smith@company.com,Login,04-07-2025 13:47,Admin Center,Success,Delhi
+anita.mehra@company.com,Failed Login,09-07-2025 04:32,MS Graph,Failed,Pune
+anita.mehra@company.com,Failed Login,06-07-2025 00:19,Azure CLI,Failed,Pune
+anita.mehra@company.com,Group Modified,18-07-2025 04:16,MS Graph,Success,Delhi
+neha.joshi@company.com,Login,13-07-2025 17:32,Azure CLI,Failed,Ahmedabad
+anita.mehra@company.com,Group Modified,08-07-2025 03:10,Azure Portal,Success,Bangalore
+jane.smith@company.com,Login,09-07-2025 00:58,Azure CLI,Failed,Chennai
+neha.joshi@company.com,Login,10-07-2025 14:10,Azure Portal,Success,Delhi
+anita.mehra@company.com,Login,17-07-2025 15:05,MS Graph,Failed,Delhi
+jane.smith@company.com,Group Modified,05-07-2025 12:19,Power BI,Success,Chennai
+neha.joshi@company.com,Role Assigned,21-07-2025 20:13,Azure CLI,Success,Chennai
+sana.ali@company.com,Failed Login,05-07-2025 15:19,Admin Center,Failed,Bangalore
+ravi.kumar@company.com,Group Modified,09-07-2025 05:30,Azure Portal,Failed,Hyderabad
+jane.smith@company.com,Failed Login,12-07-2025 18:21,Entra ID,Failed,Bangalore
+dev.patel@company.com,Failed Login,04-07-2025 21:43,Entra ID,Failed,Chennai
+john.doe@company.com,Password Change,08-07-2025 03:37,Azure Portal,Success,Ahmedabad
+ravi.kumar@company.com,Group Modified,19-07-2025 00:10,MS Graph,Success,Mumbai
+raj.sharma@company.com,Login,14-07-2025 08:57,Power BI,Failed,Delhi
+john.doe@company.com,Login,11-07-2025 14:04,Power BI,Success,Bangalore
+neha.joshi@company.com,Role Assigned,18-07-2025 19:10,Azure Portal,Success,Mumbai
+ravi.kumar@company.com,Group Modified,20-07-2025 21:20,Azure Portal,Success,Hyderabad
+jane.smith@company.com,Failed Login,07-07-2025 22:39,Azure Portal,Failed,Mumbai
+dev.patel@company.com,Login,13-07-2025 19:03,Azure CLI,Failed,Bangalore
+ravi.kumar@company.com,Password Change,06-07-2025 19:09,MS Graph,Success,Bangalore
+dev.patel@company.com,Login,15-07-2025 05:41,Entra ID,Success,Chennai
+sana.ali@company.com,Group Modified,12-07-2025 06:44,Entra ID,Failed,Delhi
+anita.mehra@company.com,Login,11-07-2025 14:53,Admin Center,Success,Pune
+dev.patel@company.com,Group Modified,21-07-2025 13:13,Entra ID,Success,Mumbai
+john.doe@company.com,Login,15-07-2025 07:42,Entra ID,Success,Delhi
+raj.sharma@company.com,Login,18-07-2025 17:41,Entra ID,Failed,Mumbai
+anita.mehra@company.com,Password Change,16-07-2025 14:47,Power BI,Success,Mumbai
+raj.sharma@company.com,Group Modified,10-07-2025 01:26,Azure Portal,Success,Ahmedabad
+dev.patel@company.com,Login,09-07-2025 02:17,Azure CLI,Success,Pune
+jane.smith@company.com,Role Assigned,05-07-2025 07:32,Entra ID,Success,Pune
+anita.mehra@company.com,Failed Login,14-07-2025 03:48,Power BI,Failed,Bangalore
+ravi.kumar@company.com,Login,19-07-2025 00:34,MS Graph,Failed,Bangalore
+john.doe@company.com,Role Assigned,03-07-2025 19:09,Entra ID,Failed,Delhi
+john.doe@company.com,Login,03-07-2025 07:47,MS Graph,Failed,Hyderabad
+sana.ali@company.com,Failed Login,02-07-2025 18:22,Entra ID,Failed,Bangalore
+neha.joshi@company.com,Login,02-07-2025 21:58,Admin Center,Failed,Hyderabad
+ravi.kumar@company.com,Password Change,16-07-2025 13:19,Entra ID,Success,Pune
+john.doe@company.com,Group Modified,18-07-2025 05:42,MS Graph,Success,Pune
+john.doe@company.com,Group Modified,06-07-2025 15:08,Azure CLI,Failed,Mumbai
+dev.patel@company.com,Failed Login,01-07-2025 09:24,Azure CLI,Failed,Bangalore
+john.doe@company.com,Password Change,08-07-2025 08:04,Azure Portal,Failed,Pune
+neha.joshi@company.com,Login,19-07-2025 04:17,Power BI,Failed,Delhi
+ravi.kumar@company.com,Login,18-07-2025 05:43,Azure CLI,Success,Chennai
+ravi.kumar@company.com,Failed Login,08-07-2025 19:48,Admin Center,Failed,Mumbai
+jane.smith@company.com,Password Change,16-07-2025 05:30,MS Graph,Success,Chennai
+raj.sharma@company.com,Role Assigned,11-07-2025 23:52,Power BI,Success,Hyderabad
+ravi.kumar@company.com,Group Modified,12-07-2025 16:00,Entra ID,Failed,Mumbai
+john.doe@company.com,Failed Login,13-07-2025 08:21,Azure CLI,Failed,Pune
+dev.patel@company.com,Login,05-07-2025 05:51,Admin Center,Failed,Hyderabad
+jane.smith@company.com,Group Modified,15-07-2025 07:45,MS Graph,Success,Ahmedabad
+dev.patel@company.com,Role Assigned,04-07-2025 06:48,Power BI,Success,Pune
+anita.mehra@company.com,Failed Login,03-07-2025 00:43,Power BI,Failed,Hyderabad
+dev.patel@company.com,Role Assigned,18-07-2025 08:54,Entra ID,Failed,Ahmedabad
+sana.ali@company.com,Failed Login,08-07-2025 20:42,MS Graph,Failed,Mumbai
+anita.mehra@company.com,Group Modified,14-07-2025 10:03,Entra ID,Success,Chennai
+john.doe@company.com,Login,10-07-2025 22:45,MS Graph,Failed,Chennai
+dev.patel@company.com,Group Modified,13-07-2025 23:44,Admin Center,Success,Bangalore
+anita.mehra@company.com,Password Change,05-07-2025 08:06,Entra ID,Success,Bangalore
+dev.patel@company.com,Failed Login,01-07-2025 18:18,Power BI,Failed,Bangalore
+sana.ali@company.com,Password Change,01-07-2025 11:27,MS Graph,Failed,Chennai
+jane.smith@company.com,Failed Login,14-07-2025 22:24,Azure CLI,Failed,Hyderabad
+ravi.kumar@company.com,Failed Login,05-07-2025 14:24,Admin Center,Failed,Bangalore
+anita.mehra@company.com,Login,21-07-2025 06:51,Admin Center,Failed,Mumbai
+raj.sharma@company.com,Failed Login,16-07-2025 12:15,Entra ID,Failed,Ahmedabad
+john.doe@company.com,Login,09-07-2025 18:24,Entra ID,Failed,Ahmedabad
+ravi.kumar@company.com,Login,10-07-2025 04:29,Azure Portal,Success,Delhi
+anita.mehra@company.com,Group Modified,07-07-2025 13:09,Azure CLI,Success,Ahmedabad
+sana.ali@company.com,Password Change,17-07-2025 14:33,Entra ID,Success,Chennai
+dev.patel@company.com,Password Change,02-07-2025 03:35,Power BI,Failed,Pune
+sana.ali@company.com,Failed Login,20-07-2025 10:14,Power BI,Failed,Delhi
+ravi.kumar@company.com,Group Modified,02-07-2025 20:20,Azure CLI,Success,Chennai
+neha.joshi@company.com,Group Modified,20-07-2025 23:33,Entra ID,Failed,Ahmedabad
+john.doe@company.com,Group Modified,17-07-2025 21:49,Azure Portal,Success,Ahmedabad
+dev.patel@company.com,Role Assigned,18-07-2025 19:24,MS Graph,Failed,Hyderabad
+jane.smith@company.com,Password Change,17-07-2025 22:25,Entra ID,Success,Chennai
+raj.sharma@company.com,Group Modified,21-07-2025 16:07,Admin Center,Success,Ahmedabad
+john.doe@company.com,Login,14-07-2025 09:31,Entra ID,Failed,Ahmedabad
+neha.joshi@company.com,Password Change,20-07-2025 12:06,Admin Center,Failed,Hyderabad
+sana.ali@company.com,Login,10-07-2025 12:59,Azure CLI,Failed,Delhi
+dev.patel@company.com,Login,07-07-2025 13:26,MS Graph,Success,Pune
+jane.smith@company.com,Login,11-07-2025 13:16,Admin Center,Failed,Hyderabad
+jane.smith@company.com,Failed Login,20-07-2025 00:10,Azure CLI,Failed,Pune
+ravi.kumar@company.com,Login,13-07-2025 02:00,Azure Portal,Failed,Hyderabad
+john.doe@company.com,Failed Login,08-07-2025 15:24,Power BI,Failed,Pune
+ravi.kumar@company.com,Login,12-07-2025 08:37,MS Graph,Failed,Mumbai
+jane.smith@company.com,Group Modified,06-07-2025 09:42,Azure Portal,Failed,Bangalore
+raj.sharma@company.com,Failed Login,14-07-2025 19:04,Entra ID,Failed,Mumbai
+sana.ali@company.com,Failed Login,16-07-2025 19:39,Azure CLI,Failed,Delhi
+raj.sharma@company.com,Failed Login,07-07-2025 05:02,MS Graph,Failed,Chennai
+anita.mehra@company.com,Group Modified,04-07-2025 13:44,Entra ID,Success,Mumbai
+ravi.kumar@company.com,Login,13-07-2025 04:14,MS Graph,Success,Mumbai
+raj.sharma@company.com,Login,01-07-2025 08:33,Admin Center,Failed,Pune
+neha.joshi@company.com,Login,21-07-2025 14:28,Entra ID,Failed,Pune
+jane.smith@company.com,Password Change,21-07-2025 20:47,Admin Center,Failed,Hyderabad
+raj.sharma@company.com,Role Assigned,19-07-2025 13:55,Admin Center,Success,Mumbai
+raj.sharma@company.com,Group Modified,19-07-2025 06:59,Admin Center,Failed,Pune
+anita.mehra@company.com,Login,09-07-2025 19:48,Admin Center,Failed,Bangalore
+ravi.kumar@company.com,Role Assigned,09-07-2025 01:25,Admin Center,Success,Ahmedabad
+dev.patel@company.com,Role Assigned,11-07-2025 18:40,Entra ID,Failed,Chennai
+dev.patel@company.com,Failed Login,16-07-2025 20:30,Azure Portal,Failed,Delhi
+jane.smith@company.com,Failed Login,07-07-2025 07:59,Azure Portal,Failed,Delhi
+neha.joshi@company.com,Password Change,07-07-2025 05:55,Admin Center,Success,Hyderabad
+raj.sharma@company.com,Failed Login,05-07-2025 02:41,Power BI,Failed,Delhi
+john.doe@company.com,Login,20-07-2025 14:56,Azure Portal,Failed,Pune
+john.doe@company.com,Login,12-07-2025 02:31,Azure Portal,Failed,Mumbai
+neha.joshi@company.com,Password Change,15-07-2025 13:22,Azure CLI,Failed,Ahmedabad
+dev.patel@company.com,Failed Login,06-07-2025 23:37,Entra ID,Failed,Hyderabad
+john.doe@company.com,Login,19-07-2025 01:49,Entra ID,Success,Pune
+anita.mehra@company.com,Group Modified,13-07-2025 13:48,Power BI,Failed,Delhi
+anita.mehra@company.com,Role Assigned,03-07-2025 21:00,Entra ID,Failed,Hyderabad
+neha.joshi@company.com,Login,18-07-2025 15:10,Azure CLI,Failed,Chennai
+raj.sharma@company.com,Group Modified,15-07-2025 20:29,MS Graph,Success,Ahmedabad
+sana.ali@company.com,Login,11-07-2025 00:26,MS Graph,Failed,Pune
+john.doe@company.com,Failed Login,08-07-2025 06:20,Azure CLI,Failed,Delhi
+jane.smith@company.com,Role Assigned,14-07-2025 07:24,Azure CLI,Failed,Chennai
+dev.patel@company.com,Password Change,06-07-2025 23:51,MS Graph,Failed,Pune
+ravi.kumar@company.com,Login,06-07-2025 13:12,MS Graph,Success,Delhi
+anita.mehra@company.com,Login,02-07-2025 01:12,Power BI,Success,Chennai
+neha.joshi@company.com,Role Assigned,10-07-2025 22:22,Admin Center,Failed,Pune
+neha.joshi@company.com,Group Modified,06-07-2025 11:21,Entra ID,Failed,Chennai
+anita.mehra@company.com,Role Assigned,11-07-2025 00:16,MS Graph,Failed,Pune
+anita.mehra@company.com,Role Assigned,16-07-2025 23:46,Entra ID,Success,Ahmedabad
+ravi.kumar@company.com,Failed Login,05-07-2025 16:56,Azure CLI,Failed,Delhi
+jane.smith@company.com,Login,03-07-2025 08:14,Entra ID,Success,Bangalore
+sana.ali@company.com,Failed Login,11-07-2025 02:47,Power BI,Failed,Pune
+john.doe@company.com,Failed Login,01-07-2025 19:57,MS Graph,Failed,Mumbai
+dev.patel@company.com,Failed Login,12-07-2025 07:31,Entra ID,Failed,Chennai
+john.doe@company.com,Failed Login,14-07-2025 02:13,Power BI,Failed,Chennai
+jane.smith@company.com,Login,10-07-2025 05:43,Admin Center,Success,Delhi
+jane.smith@company.com,Failed Login,20-07-2025 21:30,MS Graph,Failed,Pune
+jane.smith@company.com,Role Assigned,18-07-2025 03:53,Admin Center,Failed,Pune
+dev.patel@company.com,Password Change,05-07-2025 11:23,Azure CLI,Success,Ahmedabad
+sana.ali@company.com,Failed Login,19-07-2025 11:19,Azure CLI,Failed,Pune
+john.doe@company.com,Role Assigned,08-07-2025 15:16,Azure CLI,Failed,Delhi
+neha.joshi@company.com,Group Modified,16-07-2025 07:14,MS Graph,Success,Pune
+jane.smith@company.com,Failed Login,10-07-2025 06:57,Azure CLI,Failed,Pune
+anita.mehra@company.com,Failed Login,17-07-2025 17:48,MS Graph,Failed,Pune
+john.doe@company.com,Failed Login,22-07-2025 01:22,Azure CLI,Failed,Pune
+jane.smith@company.com,Failed Login,03-07-2025 07:35,Entra ID,Failed,Ahmedabad
+john.doe@company.com,Role Assigned,07-07-2025 18:22,Entra ID,Success,Bangalore
+raj.sharma@company.com,Login,13-07-2025 09:22,Power BI,Success,Ahmedabad
+jane.smith@company.com,Password Change,03-07-2025 02:41,MS Graph,Failed,Delhi
+dev.patel@company.com,Login,05-07-2025 03:04,Entra ID,Failed,Mumbai
+sana.ali@company.com,Failed Login,12-07-2025 13:50,Entra ID,Failed,Bangalore
+john.doe@company.com,Password Change,07-07-2025 23:31,Azure Portal,Failed,Mumbai
+raj.sharma@company.com,Group Modified,09-07-2025 11:43,Admin Center,Failed,Chennai
+raj.sharma@company.com,Failed Login,14-07-2025 21:09,MS Graph,Failed,Delhi
+sana.ali@company.com,Failed Login,10-07-2025 19:14,Admin Center,Failed,Mumbai
+john.doe@company.com,Failed Login,04-07-2025 11:10,Power BI,Failed,Chennai
+sana.ali@company.com,Failed Login,17-07-2025 03:53,Azure CLI,Failed,Pune
+john.doe@company.com,Failed Login,17-07-2025 17:25,Power BI,Failed,Ahmedabad
+dev.patel@company.com,Login,17-07-2025 09:22,Azure CLI,Success,Ahmedabad
+john.doe@company.com,Role Assigned,09-07-2025 18:05,MS Graph,Success,Delhi
+dev.patel@company.com,Password Change,06-07-2025 23:17,Azure Portal,Success,Delhi
+ravi.kumar@company.com,Login,16-07-2025 12:32,Azure Portal,Success,Pune
+john.doe@company.com,Login,11-07-2025 19:13,MS Graph,Success,Chennai
+sana.ali@company.com,Login,07-07-2025 21:40,Azure Portal,Failed,Ahmedabad
+sana.ali@company.com,Role Assigned,19-07-2025 16:34,Admin Center,Success,Ahmedabad
+raj.sharma@company.com,Failed Login,21-07-2025 15:51,Azure Portal,Failed,Bangalore
+anita.mehra@company.com,Group Modified,14-07-2025 09:59,Azure CLI,Failed,Mumbai
+raj.sharma@company.com,Password Change,03-07-2025 13:42,Azure Portal,Success,Mumbai
+anita.mehra@company.com,Role Assigned,19-07-2025 13:18,Azure Portal,Failed,Hyderabad
+ravi.kumar@company.com,Password Change,01-07-2025 17:38,Entra ID,Success,Hyderabad
+john.doe@company.com,Password Change,05-07-2025 19:00,Entra ID,Success,Mumbai
+dev.patel@company.com,Group Modified,09-07-2025 08:58,Azure CLI,Success,Delhi
+ravi.kumar@company.com,Failed Login,04-07-2025 07:47,Admin Center,Failed,Ahmedabad
+raj.sharma@company.com,Password Change,09-07-2025 05:01,Entra ID,Failed,Hyderabad
+anita.mehra@company.com,Login,07-07-2025 09:16,Azure Portal,Success,Delhi
+john.doe@company.com,Login,15-07-2025 11:20,Entra ID,Success,Pune
+neha.joshi@company.com,Password Change,05-07-2025 00:14,MS Graph,Failed,Bangalore
+anita.mehra@company.com,Password Change,18-07-2025 06:02,Power BI,Failed,Chennai
+john.doe@company.com,Password Change,19-07-2025 01:28,Entra ID,Failed,Chennai
+john.doe@company.com,Failed Login,03-07-2025 14:56,Azure CLI,Failed,Delhi
+jane.smith@company.com,Login,21-07-2025 23:23,MS Graph,Failed,Mumbai
+dev.patel@company.com,Password Change,01-07-2025 09:33,MS Graph,Success,Delhi
+neha.joshi@company.com,Role Assigned,03-07-2025 03:06,Azure Portal,Success,Hyderabad
+dev.patel@company.com,Password Change,13-07-2025 18:22,Entra ID,Success,Mumbai
+anita.mehra@company.com,Failed Login,15-07-2025 17:39,Entra ID,Failed,Bangalore
+ravi.kumar@company.com,Group Modified,03-07-2025 06:17,MS Graph,Failed,Bangalore
+raj.sharma@company.com,Login,01-07-2025 10:18,MS Graph,Success,Ahmedabad
+ravi.kumar@company.com,Role Assigned,06-07-2025 21:56,Power BI,Failed,Mumbai
+ravi.kumar@company.com,Login,15-07-2025 17:44,Azure Portal,Success,Delhi
+ravi.kumar@company.com,Login,12-07-2025 22:21,Admin Center,Failed,Ahmedabad
+ravi.kumar@company.com,Password Change,13-07-2025 16:35,Entra ID,Failed,Ahmedabad
+neha.joshi@company.com,Password Change,20-07-2025 16:23,Entra ID,Success,Delhi
+jane.smith@company.com,Password Change,17-07-2025 19:11,Azure Portal,Success,Bangalore
+ravi.kumar@company.com,Group Modified,12-07-2025 02:10,Azure CLI,Failed,Ahmedabad
+sana.ali@company.com,Role Assigned,18-07-2025 17:36,Power BI,Failed,Chennai
+anita.mehra@company.com,Group Modified,08-07-2025 13:47,Admin Center,Success,Mumbai
+dev.patel@company.com,Login,17-07-2025 11:13,Admin Center,Success,Bangalore
+ravi.kumar@company.com,Password Change,05-07-2025 18:48,Admin Center,Failed,Hyderabad
+john.doe@company.com,Login,13-07-2025 03:37,Entra ID,Failed,Delhi
+dev.patel@company.com,Password Change,05-07-2025 00:13,Entra ID,Success,Mumbai
+jane.smith@company.com,Login,08-07-2025 15:02,Entra ID,Success,Chennai
+raj.sharma@company.com,Role Assigned,20-07-2025 10:00,MS Graph,Failed,Pune
+sana.ali@company.com,Login,18-07-2025 03:09,Entra ID,Success,Bangalore
+jane.smith@company.com,Failed Login,17-07-2025 19:52,Azure CLI,Failed,Chennai
+jane.smith@company.com,Failed Login,09-07-2025 08:41,Azure Portal,Failed,Bangalore
+sana.ali@company.com,Password Change,11-07-2025 09:09,Azure Portal,Failed,Chennai
+jane.smith@company.com,Login,04-07-2025 21:19,Admin Center,Success,Bangalore
+ravi.kumar@company.com,Role Assigned,13-07-2025 04:17,MS Graph,Success,Mumbai
+dev.patel@company.com,Login,06-07-2025 06:43,MS Graph,Failed,Bangalore
+john.doe@company.com,Role Assigned,14-07-2025 01:27,Power BI,Success,Mumbai
+ravi.kumar@company.com,Password Change,12-07-2025 01:33,Azure CLI,Success,Delhi
+dev.patel@company.com,Login,17-07-2025 05:22,Azure Portal,Success,Delhi
+neha.joshi@company.com,Password Change,12-07-2025 23:34,Power BI,Success,Pune
+sana.ali@company.com,Login,02-07-2025 22:10,Azure Portal,Success,Hyderabad
+sana.ali@company.com,Group Modified,03-07-2025 03:52,MS Graph,Failed,Ahmedabad
+sana.ali@company.com,Password Change,20-07-2025 11:30,Azure Portal,Success,Pune
+john.doe@company.com,Failed Login,16-07-2025 22:17,Entra ID,Failed,Delhi
+jane.smith@company.com,Failed Login,10-07-2025 09:32,Azure Portal,Failed,Chennai
+raj.sharma@company.com,Login,03-07-2025 18:30,Entra ID,Failed,Delhi
+sana.ali@company.com,Login,10-07-2025 02:53,Power BI,Failed,Ahmedabad
+anita.mehra@company.com,Group Modified,02-07-2025 08:08,Entra ID,Success,Mumbai
+raj.sharma@company.com,Failed Login,20-07-2025 00:32,Azure CLI,Failed,Ahmedabad
+sana.ali@company.com,Group Modified,02-07-2025 08:57,Azure CLI,Failed,Ahmedabad
+neha.joshi@company.com,Login,16-07-2025 02:25,Entra ID,Success,Hyderabad
+john.doe@company.com,Role Assigned,15-07-2025 06:32,Entra ID,Failed,Pune
+dev.patel@company.com,Role Assigned,07-07-2025 09:44,Power BI,Success,Mumbai
+dev.patel@company.com,Failed Login,13-07-2025 01:55,Power BI,Failed,Mumbai
+anita.mehra@company.com,Group Modified,19-07-2025 11:01,Admin Center,Success,Bangalore
+jane.smith@company.com,Login,13-07-2025 19:42,Entra ID,Failed,Chennai
+raj.sharma@company.com,Group Modified,06-07-2025 09:48,Azure CLI,Failed,Delhi
+jane.smith@company.com,Login,21-07-2025 21:01,Admin Center,Success,Chennai
+raj.sharma@company.com,Password Change,09-07-2025 05:10,Entra ID,Failed,Ahmedabad
+ravi.kumar@company.com,Failed Login,14-07-2025 12:59,MS Graph,Failed,Chennai
+anita.mehra@company.com,Role Assigned,14-07-2025 17:54,MS Graph,Failed,Pune
+anita.mehra@company.com,Failed Login,03-07-2025 04:57,Entra ID,Failed,Hyderabad
+raj.sharma@company.com,Failed Login,12-07-2025 15:59,MS Graph,Failed,Hyderabad
+neha.joshi@company.com,Failed Login,21-07-2025 10:26,MS Graph,Failed,Delhi
+john.doe@company.com,Password Change,04-07-2025 12:31,MS Graph,Success,Hyderabad
+neha.joshi@company.com,Group Modified,16-07-2025 12:59,MS Graph,Success,Ahmedabad
+jane.smith@company.com,Role Assigned,04-07-2025 14:56,Admin Center,Failed,Bangalore
+ravi.kumar@company.com,Failed Login,19-07-2025 16:59,MS Graph,Failed,Hyderabad
+anita.mehra@company.com,Login,17-07-2025 05:11,Admin Center,Failed,Mumbai
+dev.patel@company.com,Failed Login,13-07-2025 09:35,Azure CLI,Failed,Pune
+dev.patel@company.com,Failed Login,12-07-2025 04:51,Power BI,Failed,Hyderabad
+neha.joshi@company.com,Failed Login,14-07-2025 23:53,Azure Portal,Failed,Pune
+john.doe@company.com,Failed Login,21-07-2025 21:08,Azure CLI,Failed,Bangalore
+anita.mehra@company.com,Failed Login,02-07-2025 15:52,Entra ID,Failed,Ahmedabad
+jane.smith@company.com,Group Modified,18-07-2025 08:53,Azure CLI,Success,Chennai
+ravi.kumar@company.com,Group Modified,18-07-2025 01:21,Azure Portal,Failed,Hyderabad
+john.doe@company.com,Login,05-07-2025 19:03,Power BI,Success,Mumbai
+jane.smith@company.com,Login,02-07-2025 02:22,Admin Center,Success,Ahmedabad
+sana.ali@company.com,Login,13-07-2025 15:51,Admin Center,Failed,Pune
+ravi.kumar@company.com,Password Change,14-07-2025 07:28,Power BI,Success,Hyderabad
+dev.patel@company.com,Login,03-07-2025 17:04,Admin Center,Success,Bangalore
+anita.mehra@company.com,Password Change,16-07-2025 07:43,MS Graph,Failed,Chennai
+anita.mehra@company.com,Password Change,15-07-2025 01:02,Admin Center,Failed,Hyderabad
+dev.patel@company.com,Password Change,14-07-2025 06:47,MS Graph,Failed,Pune
+neha.joshi@company.com,Failed Login,05-07-2025 07:02,Entra ID,Failed,Hyderabad
+raj.sharma@company.com,Group Modified,11-07-2025 21:05,Admin Center,Success,Hyderabad
+raj.sharma@company.com,Login,04-07-2025 13:09,Entra ID,Failed,Bangalore
+neha.joshi@company.com,Role Assigned,02-07-2025 05:25,Azure CLI,Failed,Mumbai
+neha.joshi@company.com,Login,21-07-2025 18:44,Azure CLI,Success,Pune
+sana.ali@company.com,Login,07-07-2025 14:03,Azure CLI,Failed,Ahmedabad
+raj.sharma@company.com,Failed Login,13-07-2025 23:55,Azure CLI,Failed,Delhi
+jane.smith@company.com,Password Change,07-07-2025 09:13,Power BI,Success,Bangalore
+anita.mehra@company.com,Login,11-07-2025 06:04,Admin Center,Success,Mumbai
+ravi.kumar@company.com,Login,10-07-2025 23:35,Power BI,Success,Pune
+john.doe@company.com,Role Assigned,13-07-2025 14:07,Power BI,Failed,Bangalore
+john.doe@company.com,Login,02-07-2025 17:38,Azure Portal,Success,Chennai
+neha.joshi@company.com,Login,19-07-2025 04:01,Entra ID,Success,Bangalore
+raj.sharma@company.com,Failed Login,16-07-2025 00:39,MS Graph,Failed,Mumbai
+dev.patel@company.com,Failed Login,04-07-2025 20:25,Azure Portal,Failed,Delhi
+raj.sharma@company.com,Failed Login,12-07-2025 20:12,Azure CLI,Failed,Hyderabad
+jane.smith@company.com,Login,08-07-2025 14:27,Azure Portal,Failed,Bangalore
+john.doe@company.com,Login,10-07-2025 11:35,Power BI,Success,Mumbai
+dev.patel@company.com,Failed Login,20-07-2025 14:05,Entra ID,Failed,Chennai
+ravi.kumar@company.com,Login,13-07-2025 04:53,Entra ID,Success,Pune
+dev.patel@company.com,Failed Login,10-07-2025 02:55,Azure Portal,Failed,Bangalore
+anita.mehra@company.com,Failed Login,07-07-2025 12:59,Azure Portal,Failed,Mumbai
+john.doe@company.com,Group Modified,07-07-2025 04:04,Entra ID,Success,Hyderabad
+john.doe@company.com,Login,10-07-2025 12:25,Entra ID,Failed,Pune
+sana.ali@company.com,Role Assigned,15-07-2025 19:58,Power BI,Success,Bangalore
+anita.mehra@company.com,Group Modified,19-07-2025 10:46,MS Graph,Success,Mumbai
+sana.ali@company.com,Login,13-07-2025 00:41,Azure Portal,Success,Hyderabad
+ravi.kumar@company.com,Login,05-07-2025 09:29,MS Graph,Success,Bangalore
+john.doe@company.com,Failed Login,14-07-2025 14:52,Azure CLI,Failed,Delhi
+anita.mehra@company.com,Failed Login,21-07-2025 07:02,Admin Center,Failed,Delhi
+ravi.kumar@company.com,Role Assigned,17-07-2025 05:37,MS Graph,Failed,Delhi
+jane.smith@company.com,Failed Login,05-07-2025 17:20,Power BI,Failed,Chennai
+john.doe@company.com,Role Assigned,21-07-2025 04:06,Admin Center,Success,Ahmedabad
+raj.sharma@company.com,Group Modified,20-07-2025 14:30,Power BI,Failed,Pune
+raj.sharma@company.com,Failed Login,04-07-2025 22:24,Power BI,Failed,Pune
+ravi.kumar@company.com,Login,13-07-2025 11:26,Power BI,Failed,Delhi
+dev.patel@company.com,Role Assigned,16-07-2025 13:39,Power BI,Success,Delhi
+neha.joshi@company.com,Group Modified,07-07-2025 05:30,Admin Center,Failed,Chennai
+raj.sharma@company.com,Password Change,07-07-2025 07:56,MS Graph,Success,Hyderabad
+raj.sharma@company.com,Password Change,12-07-2025 01:16,Azure CLI,Failed,Hyderabad
+ravi.kumar@company.com,Group Modified,05-07-2025 04:51,Power BI,Success,Ahmedabad
+john.doe@company.com,Group Modified,05-07-2025 17:13,MS Graph,Success,Hyderabad
+ravi.kumar@company.com,Login,19-07-2025 09:43,Power BI,Success,Ahmedabad
+dev.patel@company.com,Role Assigned,07-07-2025 05:26,MS Graph,Failed,Hyderabad
+anita.mehra@company.com,Group Modified,15-07-2025 02:56,Azure Portal,Failed,Chennai
+anita.mehra@company.com,Password Change,10-07-2025 11:08,Entra ID,Success,Hyderabad
+jane.smith@company.com,Failed Login,21-07-2025 12:01,Power BI,Failed,Bangalore
+neha.joshi@company.com,Password Change,21-07-2025 12:01,Azure CLI,Success,Chennai
+jane.smith@company.com,Password Change,09-07-2025 11:01,Azure CLI,Success,Bangalore
+jane.smith@company.com,Login,07-07-2025 14:55,Entra ID,Success,Pune
+sana.ali@company.com,Login,20-07-2025 19:07,MS Graph,Success,Chennai
+john.doe@company.com,Group Modified,14-07-2025 05:45,Entra ID,Failed,Delhi
+ravi.kumar@company.com,Login,11-07-2025 11:44,MS Graph,Failed,Pune
+john.doe@company.com,Failed Login,19-07-2025 05:57,Azure CLI,Failed,Mumbai
+neha.joshi@company.com,Login,19-07-2025 03:57,Azure Portal,Success,Delhi
+raj.sharma@company.com,Login,03-07-2025 15:04,Entra ID,Success,Bangalore
+anita.mehra@company.com,Failed Login,05-07-2025 19:53,Entra ID,Failed,Ahmedabad
+raj.sharma@company.com,Failed Login,18-07-2025 11:35,Power BI,Failed,Chennai
+raj.sharma@company.com,Login,13-07-2025 04:42,Azure CLI,Success,Chennai
+dev.patel@company.com,Login,15-07-2025 08:54,Azure Portal,Failed,Ahmedabad
+ravi.kumar@company.com,Failed Login,12-07-2025 01:57,Azure CLI,Failed,Delhi
+ravi.kumar@company.com,Failed Login,02-07-2025 00:04,Entra ID,Failed,Mumbai
+jane.smith@company.com,Login,06-07-2025 19:18,Entra ID,Success,Ahmedabad
+ravi.kumar@company.com,Group Modified,01-07-2025 10:19,MS Graph,Success,Ahmedabad
+jane.smith@company.com,Failed Login,22-07-2025 00:23,MS Graph,Failed,Mumbai
+john.doe@company.com,Role Assigned,19-07-2025 10:21,Azure Portal,Failed,Hyderabad
+raj.sharma@company.com,Password Change,06-07-2025 08:28,Azure Portal,Success,Hyderabad
+neha.joshi@company.com,Login,12-07-2025 03:49,Power BI,Failed,Mumbai
+jane.smith@company.com,Group Modified,22-07-2025 00:23,Azure Portal,Failed,Ahmedabad
+neha.joshi@company.com,Failed Login,06-07-2025 21:02,Azure CLI,Failed,Ahmedabad
+ravi.kumar@company.com,Failed Login,09-07-2025 10:35,MS Graph,Failed,Pune
+ravi.kumar@company.com,Group Modified,06-07-2025 13:37,MS Graph,Success,Hyderabad
+anita.mehra@company.com,Login,13-07-2025 00:11,Admin Center,Success,Chennai
+neha.joshi@company.com,Password Change,07-07-2025 21:03,Admin Center,Failed,Ahmedabad
+dev.patel@company.com,Group Modified,13-07-2025 11:53,Azure Portal,Success,Delhi
+dev.patel@company.com,Group Modified,08-07-2025 16:37,Admin Center,Failed,Hyderabad

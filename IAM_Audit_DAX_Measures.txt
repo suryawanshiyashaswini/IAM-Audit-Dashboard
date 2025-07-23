@@ -1,0 +1,8 @@
+-- Count of Total Actions
+Total Actions = COUNTROWS('IAM_Audit_Log_Sample')
+
+-- Count of Failed Logins
+Failed Logins = CALCULATE(COUNTROWS('IAM_Audit_Log_Sample'), 'IAM_Audit_Log_Sample'[Status] = "Failed")
+
+-- Last Login Timestamp
+Last Login = MAX('IAM_Audit_Log_Sample'[Timestamp])
